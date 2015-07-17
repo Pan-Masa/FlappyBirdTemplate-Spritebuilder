@@ -19,7 +19,7 @@
 // put new methods here
 - (void)touchBegan:(CCTouch *)touch withEvent:(CCTouchEvent *)event {
     // touches the screen
-    [character flap];
+    //[character flap];
     
 }
 
